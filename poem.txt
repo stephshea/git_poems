@@ -4,3 +4,4 @@ another cool word
 clever ending
 
 made a branch change for first branch
+made a change in the second branch
