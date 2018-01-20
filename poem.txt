@@ -5,7 +5,7 @@ branches
 from master
 git checkout -b <branch_name>
 
-(add to branch)
+(modify, add txt,files etc to branch)
 
 from branch
 git add .
