@@ -1,7 +1,25 @@
 The poem
+
+branches
+
+from master
+git checkout -b <branch_name>
+
+(modify, add txt,files etc to branch)
+
+from branch
+git add .
+git commit -m '  '
+git push
+
+git checkout master
+git merge <branch_name>
+git push origin master
+
 cool words
 another cool word
 clever ending
 
 made a branch change for first branch
 made a change in the second branch
+made a change in third branch
